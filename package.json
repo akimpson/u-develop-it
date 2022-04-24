@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akimpson/u-develop-it.git"
