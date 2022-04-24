@@ -54,7 +54,8 @@ typings/
 .eslintcache
 
 # Microbundle cache
-.rpt2_cache/
+.rpt2_cache/0
+
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
@@ -102,3 +103,4 @@ dist
 
 # TernJS port file
 .tern-port
+
